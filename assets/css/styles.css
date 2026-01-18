@@ -71,6 +71,16 @@ body {
     font-family: 'Playfair Display', serif;
 }
 
+.logo a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+.logo a:hover {
+    opacity: 0.8;
+}
+
 .nav-menu {
     display: flex;
     list-style: none;
