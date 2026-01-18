@@ -6,6 +6,10 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 
+# Include static files
+include:
+  - assets
+
 # Exclude from processing
 exclude:
   - Gemfile
