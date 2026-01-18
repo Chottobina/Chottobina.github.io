@@ -1,0 +1,14 @@
+title: Sabina Rovansek - UX Designer
+description: Portfolio website for UX designer Sabina Rovansek
+url: https://sabina.fyi
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
